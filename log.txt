@@ -1,0 +1,88 @@
+Tue Jul 05 18:46:51 2016 operator 2^ operand1 2 operand2 2 result 4 
+
+Tue Jul 05 18:46:51 2016 operator 2^ operand1 2 operand2  result 0 
+Operands count must be equal 2
+
+Tue Jul 05 18:46:51 2016 operator 2^ operand1 3 operand2 2 result 0 
+First Operand  must be equal 2 
+
+Tue Jul 05 18:46:51 2016 operator 2^ operand1 2 operand2 -2 result 0.25 
+
+Tue Jul 05 18:46:51 2016 operator + operand1 2 operand2 3 result 5 
+
+Tue Jul 05 18:46:51 2016 operator + operand1 2.1 operand2 3 result 0 
+Operands must be integer 
+
+Tue Jul 05 18:46:51 2016 operator - operand1 2 operand2 3 result -1 
+
+Tue Jul 05 18:46:51 2016 operator - operand1 2.8 operand2 3 result 0 
+Operands must be integer 
+
+Tue Jul 05 18:46:51 2016 operator * operand1 2 operand2 3 result 6 
+
+Tue Jul 05 18:46:51 2016 operator * operand1 2 operand2 3 result 0 
+Operands must be integer 
+
+Tue Jul 05 18:46:51 2016 operator * operand1 2 operand2 5.5 result 0 
+Operands must be integer 
+
+Tue Jul 05 18:46:51 2016 operator % operand1 2 operand2 3 result 0 
+
+Tue Jul 05 18:46:51 2016 operator % operand1 2 operand2 0 result 0 
+Division by zero
+Tue Jul 05 18:46:51 2016 operator % operand1 2 operand2 1 result 0 
+Operands must be integer 
+
+Tue Jul 05 18:46:51 2016 operator % operand1 2 operand2 1 result 0 
+Operands count must be equal 2
+
+Tue Jul 05 18:46:51 2016 operator % operand1  operand2  result 0 
+Operands count must be equal 2
+
+Tue Jul 05 18:46:51 2016 operator h operand1 2 operand2 3 result 0 
+Can not do this operation h
+
+Tue Jul 05 18:51:58 2016 operator 2^ operand1 2 operand2 2 result 4 
+
+Tue Jul 05 18:51:58 2016 operator 2^ operand1 2 operand2  result 0 
+Operands count must be equal 2
+
+Tue Jul 05 18:51:58 2016 operator 2^ operand1 3 operand2 2 result 0 
+First Operand  must be equal 2 
+
+Tue Jul 05 18:51:58 2016 operator 2^ operand1 2 operand2 -2 result 0.25 
+
+Tue Jul 05 18:51:58 2016 operator + operand1 2 operand2 3 result 5 
+
+Tue Jul 05 18:51:58 2016 operator + operand1 2.1 operand2 3 result 0 
+Operands must be integer 
+
+Tue Jul 05 18:51:58 2016 operator - operand1 2 operand2 3 result -1 
+
+Tue Jul 05 18:51:58 2016 operator - operand1 2.8 operand2 3 result 0 
+Operands must be integer 
+
+Tue Jul 05 18:51:58 2016 operator * operand1 2 operand2 3 result 6 
+
+Tue Jul 05 18:51:58 2016 operator * operand1 2 operand2 3 result 0 
+Operands must be integer 
+
+Tue Jul 05 18:51:58 2016 operator * operand1 2 operand2 5.5 result 0 
+Operands must be integer 
+
+Tue Jul 05 18:51:58 2016 operator % operand1 2 operand2 3 result 0 
+
+Tue Jul 05 18:51:58 2016 operator % operand1 2 operand2 0 result 0 
+Division by zero
+Tue Jul 05 18:51:58 2016 operator % operand1 2 operand2 1 result 0 
+Operands must be integer 
+
+Tue Jul 05 18:51:58 2016 operator % operand1 2 operand2 1 result 0 
+Operands count must be equal 2
+
+Tue Jul 05 18:51:58 2016 operator % operand1  operand2  result 0 
+Operands count must be equal 2
+
+Tue Jul 05 18:51:58 2016 operator h operand1 2 operand2 3 result 0 
+Can not do this operation h
+
